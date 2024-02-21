@@ -1,3 +1,5 @@
+"use strict";
+
 class Piece {
   x = 4;
   y = 0;
